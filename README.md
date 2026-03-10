@@ -42,4 +42,9 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 ## 📞 Connect With Me
 
-![https://www.instagram.com/fernandaaqmal_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/frnndaqmal/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="left">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandaaqmal_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frnndaqmal/)
+
+</p>
