@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aqmal</h1>
+<h3 align="center">Software Quality Assurance Engineer</h3>
 
-<!--
-**fernandaaqmal1/fernandaaqmal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about improving software quality, finding bugs, and building reliable systems.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 💻 Software Quality Assurance Engineer  
+- 🔍 Focus on **Manual Testing & Automation Testing**  
+- 🧪 Experienced in **Test Case, Bug Analysis, and Database Validation**  
+- 📚 Currently learning **Playwright & JavaScript for Test Automation**
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,js,git,vscode,github"/>
+</p>
+
+**Testing Tools**
+
+- Katalon Studio  
+- Playwright  
+- API Testing  
+- SQL / PostgreSQL  
+- Manual Testing  
+
+---
+
+## 🧪 Testing Focus
+
+✔ Functional Testing  
+✔ Test Case & Scenario Design  
+✔ Bug Investigation  
+✔ Database Validation  
+✔ Automation Testing  
+
+---
+
+⭐ *Improving software quality one test at a time.*
