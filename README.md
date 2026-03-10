@@ -65,18 +65,6 @@ Prepared system documentation and created UI for remuneration module.
 
 ---
 
-## 🎨 UI / UX Mockups
-
-[![Hospital Information System](https://img.shields.io/badge/Hospital%20Information%20System-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/OuOBVEo7tSUTvOE0LolMvi/SimRS?node-id=0-1&p=f&t=SBrUgcXv7TX3hx1r-0)
-
-[![Billing System](https://img.shields.io/badge/Billing%20System-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/rzENDVE5YqjscdtZIVtE7G/Java-Digital-Nusantara?node-id=0-1&t=7BtKcMncllNuuQ3i-1)
-
-[![Warehouse Management System](https://img.shields.io/badge/WMS-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/9BQBK2UvYRrqduL2gB0M5n/SANIPAK?node-id=0-1&t=oxsg2dN4ut2C2CjS-1)
-
-[![Reserve & Replenish](https://img.shields.io/badge/Reserve%20%26%20Replenish-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/bSledzRtQXZrcgQlA7bqG5/Replenish?node-id=0-1&t=uLJWLguKdIDxDNVj-1)
-
----
-
 ## 📞 Connect With Me
 
 <p align="left">
