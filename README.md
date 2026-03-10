@@ -11,22 +11,20 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 - 💻 Software Quality Assurance Engineer  
 - 🔍 Focus on **Manual Testing & Automation Testing**  
-- 🧪 Experienced in **Test Case, Bug Analysis, and Database Validation**  
-- 📚 Currently learning **Playwright & JavaScript for Test Automation**
+- 🧪 Experienced in **Test Case, Bug Analysis, and Database Validation*
+- 🏢 Currently working at [**PT. Arkamaya**](https://arkamaya.co.id/)
 
 ---
 
 ## 🛠 Tools & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,js,git,vscode,github"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,postman,figma,)](https://skillicons.dev)
 
 **Testing Tools**
 
 - Katalon Studio  
 - Playwright  
-- API Testing  
+- Postman  
 - SQL / PostgreSQL  
 - Manual Testing  
 
@@ -42,4 +40,6 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 ---
 
-⭐ *Improving software quality one test at a time.*
+## 📞 Connect With Me
+
+![https://www.instagram.com/fernandaaqmal_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/frnndaqmal/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
