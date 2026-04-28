@@ -34,9 +34,11 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 ✔ Functional Testing  
 ✔ Test Case & Scenario Design  
-✔ Bug Investigation  
-✔ Database Validation  
-✔ Automation Testing  
+✔ Defect management & Root Cause Analyst
+✔ API Testing
+✔ Test Automation
+✔ Regression Test 
+✔ Integration Test
 
 ---
 
@@ -50,8 +52,7 @@ Performed system testing and created technical documentation for the operational
 Role: QA Engineer, UI/UX & Technical Writer  
 Conducted functional testing and assisted in improving the user interface and system documentation.
 
-**WMS (Warehouse Management System)** –  
-PT. NEC, PT. Uchimura Indonesia, PT. Sanipak Indonesia  
+**WMS (Warehouse Management System)** – PT. NEC, PT. Uchimura Indonesia, PT. Sanipak Indonesia  
 Role: QA Engineer, UI/UX & Technical Writer  
 Tested warehouse workflows and contributed to UI improvements and documentation.
 
@@ -63,6 +64,9 @@ Performed system testing, requirement analysis, and documentation for the billin
 Role: QA Engineer, UI/UX & Technical Writer  
 Prepared system documentation and created UI for remuneration module.
 
+**QISM (Quality Inspection Management Modernization)** - PT. Toyota Motor Manufacturing Indonesia    
+Role : QA Engineer & Techical Writer
+Regression Test, Integration test & Defect management
 ---
 
 ## 📞 Connect With Me
