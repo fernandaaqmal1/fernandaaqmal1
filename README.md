@@ -48,7 +48,7 @@ Passionate about improving software quality, finding bugs, and building reliable
 Role: QA Engineer & Technical Writer  
 Performed system testing and created technical documentation for the operational tracking system.
 
-**Reserve & Replenish System** – PT. Toyota Astra Motor  
+**Reserve & Replenish Shop Floor System** – PT. Toyota Astra Motor  
 Role: QA Engineer, UI/UX & Technical Writer  
 Conducted functional testing and assisted in improving the user interface and system documentation.
 
@@ -64,9 +64,10 @@ Performed system testing, requirement analysis, and documentation for the billin
 Role: QA Engineer, UI/UX & Technical Writer  
 Prepared system documentation and created UI for remuneration module.
 
-**QISM (Quality Inspection Management Modernization)** - PT. Toyota Motor Manufacturing Indonesia    
-Role : QA Engineer & Techical Writer
-Regression Test, Integration test & Defect management
+**QISM (Quality Inspection Management Modernization)** – PT. Toyota Motor Manufacturing Indonesia  
+Role: QA Engineer & Technical Writer  
+Performed regression testing, integration testing, and defect management.
+
 ---
 
 ## 📞 Connect With Me
