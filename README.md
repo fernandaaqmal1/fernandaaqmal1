@@ -30,7 +30,7 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 ---
 
-## 🧪 Testing Focus
+## 🧪 Testing Skills
 
 - Functional Testing
 - Test Case & Scenario Design
