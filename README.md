@@ -11,7 +11,7 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 - 💻 Software Quality Assurance Engineer  
 - 🔍 Focus on **Manual Testing & Automation Testing**  
-- 🧪 Experienced in **Test Case, Bug Analysis, and Database Validation*
+- 🧪 Experienced in **Test Case, Bug Analysis, and Defect Management*
 - 🏢 Currently working at [**PT. Arkamaya**](https://arkamaya.co.id/)
 
 ---
@@ -32,14 +32,13 @@ Passionate about improving software quality, finding bugs, and building reliable
 
 ## 🧪 Testing Focus
 
-✔ Functional Testing  
-✔ Test Case & Scenario Design  
-✔ Defect management & Root Cause Analyst
-✔ API Testing
-✔ Test Automation
-✔ Regression Test 
-✔ Integration Test
-
+- Functional Testing
+- Test Case & Scenario Design
+- Defect management & Root Cause Analyst
+- API Testing
+- Test Automation
+- Regression Test
+- Integration Test
 
 ---
 
